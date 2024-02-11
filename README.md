@@ -1,6 +1,6 @@
 # breakfast
 
-A new Flutter project.
+Simple project to learn Flutter.
 
 ## Getting Started
 
